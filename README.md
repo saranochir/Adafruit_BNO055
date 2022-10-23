@@ -30,3 +30,4 @@ MIT license, check license.txt for more information
 All text above must be included in any redistribution
 
 To install, use the Arduino Library Manager and search for "Adafruit BNO055" and install the library.
+VsCode
